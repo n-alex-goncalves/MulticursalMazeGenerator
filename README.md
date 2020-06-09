@@ -1,2 +1,2 @@
-# mutlicursalmaze_with_BFS_Csharp
- Generate mutlicursal mazes and a CPU that solves the maze (most of the time). Created primarily for a school project. 
+# Multicursal_Maze_with_BFS
+A program in C# that generates mutlicursal mazes. Also generates an object that traverses the maze (most of the time). 
