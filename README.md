@@ -1,4 +1,4 @@
-# Multicursal_Maze_with_BFS
+# Multicursal Maze with BFS CPU
 
 A program in C# that generates mutlicursal mazes and a CPU that traverses the maze.
 
@@ -12,6 +12,8 @@ Feel free to message me on LinkedIn if you want any advice or guidance regarding
 ![alt text](https://github.com/NunoAGoncalves/Multicursal_Maze_with_BFS/blob/master/Maze%20Image%202.png)
 
 ![alt text](https://github.com/NunoAGoncalves/Multicursal_Maze_with_BFS/blob/master/Maze%20Image.png)
+
+## Flowchart
 
 
 
