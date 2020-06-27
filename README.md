@@ -15,6 +15,6 @@ Feel free to message me on LinkedIn if you want any advice or guidance regarding
 
 ## Flowchart
 
-
+![alt text](https://github.com/NunoAGoncalves/MulticursalMazeWithBFS_Csharp/blob/master/Main%20Menu%20-%20Flowchart.png)
 
 
