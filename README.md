@@ -9,7 +9,7 @@ Feel free to message me on LinkedIn if you want any advice or guidance regarding
 ## Images 
 
 
-![alt text](https://github.com/NunoAGoncalves/Multicursal_Maze_with_BFS/blob/master/Maze_Image_1.PNG)
+![alt text](https://github.com/NunoAGoncalves/Multicursal_Maze_with_BFS/blob/master/Maze%20Image%202.png)
 
 
 
