@@ -1,4 +1,4 @@
-# Multicursal Maze with BFS CPU
+# Multicursal Maze with Breadth-First CPU
 
 A program in C# that generates mutlicursal mazes and a CPU that traverses the maze via the breadth-first search algorithm.
 
