@@ -19,4 +19,8 @@ Feel free to message me on LinkedIn if you want any advice or guidance regarding
 
 ![alt text](https://github.com/NunoAGoncalves/MulticursalMazeWithBFS_Csharp/blob/master/Main%20Menu%20-%20Flowchart.png)
 
+![alt text](https://github.com/NunoAGoncalves/OCR_MulticursalMazeWithBFS_Csharp/blob/master/Standard%20Game%20-%20Flowchart.png)
+
+![alt text](https://github.com/NunoAGoncalves/OCR_MulticursalMazeWithBFS_Csharp/blob/master/Multiplayer%20Game%20-%20Flowchart.png)
+
 
