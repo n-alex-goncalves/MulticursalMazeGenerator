@@ -5,6 +5,6 @@ program also allows the user to traverse the maze using arrow keys.
 
 ## IMAGES
 
-![alt text](https://github.com/NunoAGoncalves/Multicursal_Maze_with_BFS/blob/master/Maze%20Image%202.png)
+![alt text](https://github.com/NunoAGoncalves/Multicursal-Maze-Generator/blob/master/img/CPUMaze.png)
 
-![alt text](https://github.com/NunoAGoncalves/Multicursal_Maze_with_BFS/blob/master/Maze%20Image.png)
+![alt text](https://github.com/NunoAGoncalves/Multicursal-Maze-Generator/blob/master/img/multicursalMaze.png)
