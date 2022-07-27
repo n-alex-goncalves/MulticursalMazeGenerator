@@ -1,4 +1,4 @@
-# Multicursal Maze with Breadth-First CPU
+# Multicursal Maze Generator with Breadth-First CPU
 
 A C# program that randomly generates mutlicursal mazes and a CPU that traverses the maze via the breadth-first search algorithm. The 
 program also allows the user to traverse the maze using arrow keys.
